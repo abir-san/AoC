@@ -1,7 +1,7 @@
 dial = 50
 count = 0
 
-with open("txt_day1_advent2025") as f:
+with open("day1_text") as f:
     for line in f:
         line = line.strip()
 
